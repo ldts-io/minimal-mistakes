@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LDTS Ventures
+title                    : "LDTS Ventures"
 title_separator          : "-"
 name                     : "LDST Ventures"
 description              : "LDTS webSite."
